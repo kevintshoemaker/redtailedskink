@@ -1,0 +1,155 @@
+LocationCode,LocationName,Traps,TrapNights,,Visit1,Visit2,Visit3,Visit4,Visit5,Visit6,Visit7,Visit8,Visit9,Visit10,Visit11,Visit12,Visit13,Visit14,Visit15,Visit16,Visit17,Visit18
+1,Lower 40-mile Cottonwood Spring Wash,20,140,,0,0,*,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,40-mile Wash Ledges,20,60,,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Twin Spring,30,90,,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Yellow Rock Springs,30,90,,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Yellow Rock Springs Slope,20,60,,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,30-2C Barricade Wash,20,60,,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,30-2C Boulder Slope,30,90,,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,Cottonwood Spring,16,96,,*,0,*,0,*,0,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,Horse Wash at Pahute Mesa Road,20,60,,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,PAM 001 Wash,30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,PAM 001 Ridge West,7,42,,0,0,*,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Ammonia Tanks,30,240,,0,0,0,0,*,1,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,Nick Adams Cutoff Plot,15-20,124,,*,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,20-02 Road Borrow Area/Wash,20,160,,0,0,0,0,*,1,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,Whiterock Spring/Wash,30,360,,0,0,0,0,0,0,0,*,1,*,0,0,NA,NA,NA,NA,NA,NA
+30,Tippipah Spring Upland,30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,Tippipah Spring Wash,30,360,,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+32,Schooner Wash,30,360,,0,0,0,0,0,0,0,1,0,0,*,1,NA,NA,NA,NA,NA,NA
+33,Trail Ridge,30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,"Buckboard Mesa Road, 20a-113",30,180,,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,Camp 17 Pond,30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,Well 8 Cave/Wash,20,60,,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,"Rainier Mesa Top, 12 R Road, Sites 1-6",30,145,,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,"I17, Rock Valley",30,270,,*,*,0,*,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,"G16, Little Skull Mountain",30,270,,*,*,0,*,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,"F17, Striped Hills",29-30,271,,*,*,0,*,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,"H13, Kiwi Mesa",30,270,,*,*,0,*,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,"F10, 30F-16, 40-mile canyon side wash, FAG155 Pole",30,270,,*,0,*,0,*,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,Buckboard Mesa North slope/ledges,29-30,209,,0,0,0,*,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,Buckboard Mesa Top,25,175,,0,0,0,*,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,"Buckboard Mesa Top, East Edge Wash",5-30,185,,0,0,0,*,0,*,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA
+46,CP Hogback Ridge,30,150,,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,"Old Buckboard Mesa Road, 18A-65 Wash",20-30,190,,*,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,"Upper Fortymile Canyon, East Ledges",30,180,,0,*,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,"L14, Mara Wash Powerline Road East",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,"L14, Mara Wash Powerline Road West",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,"L16, Area 5 Cave Wash",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,"L16, Burma Road Canyon",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,"M8, Reitmann Seep Ridge",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,"M8, Paiute Ridge Slope/Wash",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,"M10, Orange Blossom Road North",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,"M10, Orange Blossom Road South",30,450,,0,0,0,0,0,0,*,0,*,0,*,0,*,0,0,NA,NA,NA
+57,"E9, East Cat Canyon, 30E-5",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,"E9, East Cat Canyon, west",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,"F9, Upper 40-mile Training Area",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,"F9, 30-1C Barricade Area",30,360,,0,0,0,0,0,0,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA
+61,"E2, West of 1903 Road, South",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,"E2, West of 1903 Road, North",27-30,177,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,"F2, North end of 19-03 Road",30,360,,0,0,0,0,*,0,0,*,1,0,*,0,NA,NA,NA,NA,NA,NA
+64,"F2, West Dead Horse Flat",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,"G3, Dead Horse Flat (south of Firing Range)",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,"G3, Lambs Canyon Road",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,"G4, 19T-55 Wash Area",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,"G4, Pahute Mesa Pond Area",30,300,,0,0,0,*,*,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA
+69,"Pahute Mesa Road, 19P-49",40-62,403,,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,"H7, Pahute Mesa Road 18P-28 Wash",30,360,,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+71,"H7, Pahute Mesa Road 18P-29 Hill",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,"M17, Mercury Pass",30,300,,0,0,*,0,0,*,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+73,"M17, 5-7C Barricade",30,300,,0,0,*,0,0,*,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+74,"L17, Red Mountain",30,300,,0,0,*,0,0,*,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+75,"L12, Southeast of Yucca Playa",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,"L12, South edge of Yucca Playa",30,450,,0,0,0,0,0,0,*,0,*,0,*,0,*,0,0,NA,NA,NA
+77,"M12, North of RWMC5",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,"M12, EODU, 6-03 Road",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,"L11, Knoll West of Area 6 Heavy Equipment Yard",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,"L11, Knolls Southwest of Yucca Playa",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,"M9, North of Camera Station Butte",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,"M9, Scarp Canyon, east of SC51 Radsafe",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,"H11, Shoshone Mountain East",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,"H11, Shoshone Mountain, Topopah Pass",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,"G11, Topopah Spring Area",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,"G11, South of Topopah Spring",30,180,,0,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,"I5, East Rainier Mesa",30,180,,1,0,1,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,"I5, Rainier Mesa, 12T14 Radsafe",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,"I6, Holmes Road",30,360,,0,0,0,0,0,0,0,*,0,*,1,0,NA,NA,NA,NA,NA,NA
+90,"I6, East of G Tunnel",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,"D3, 20-1 Road, 20J46 Radsafe",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,"D3, S-13 Road, Near 20LF Road Radsafe",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,"C3, Canyon Northwest of Trail Ridge",30,180,,0,0,0,0,*,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+94,"Rainier Mesa, 12A24",17,204,,0,0,*,0,*,0,*,0,*,0,*,0,NA,NA,NA,NA,NA,NA
+95,"E5, Valley South of 20-2 Sump",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,"E5, Pahute Mesa, North of 20-2 Sump",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+97,"E4, Columbine Canyon",30,270,,0,0,0,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,"E4, Pahute Mesa, Valley west of Columbine Canyon",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,"I15, Skull Mountain North",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+100,"I15, Skull Mountain South",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,Trail Ridge South,29-30,89,,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+102,"J13, Mid Valley Road, MV-47",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103,"I12, Mid Valley Road, MV-34",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104,"I10, Mid Valley, North of HEST facility",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+105,"J8, North of Area 1 Shaker Plant",30,180,,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106,"L7, 901 Road east, 9B-39",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+107,"L7, South Banded Mountain",30,180,,0,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+108,"M6, Rounded Ridge",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,"L6, South Rhyolite Hills (Gate 700)",30,180,,*,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,"L5, Tub Spring Area",30,180,,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,"L5, East of Tub Spring, Rhyolite Hills",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,"K4, Oak, John, and Carrie Spring",30,180,,1,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113,"E6, Microhabitat on 18-5 Road",15,60,,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+114,"E7, 18-5 Road Wash",30,180,,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+115,"F6, Slope of Blacktop Buttes",30,360,,0,*,0,0,*,0,*,*,0,*,1,1,NA,NA,NA,NA,NA,NA
+116,"D5, Pahute Mesa 20a-122, near 20-4C Barricade",30,240,,0,0,*,0,*,1,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,"D5, Pahute Mesa near 20-5 Sump",11,330,,0,0,*,0,*,*,1,*,1,*,0,NA,NA,NA,NA,NA,NA,NA
+118,"I6, Rainier Spring Wash, E Tunnel Road",29-30,209,,0,0,*,0,*,*,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+119,"G5, Valley east of Echo Peak Substation",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+120,"F5, Pahute Mesa, South Silent Canyon, 19E-17",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121,"F5, West of South Silent Canyon",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+122,"F6, Pahute Mesa, North of Blacktop Buttes",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+123,"H4, Kawich Canyon, KV-16 Radsafe",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,"I5, Gold Meadows Spring Area",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+125,"H5, Gold Meadows, KV-3 Radsafe",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+126,"H5, Back Mesa Road",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+127,"I10, Shoshone Mt., 16 A Tunnel Canyon",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,"H10, Shoshone Mt., 16-04 Road",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+129,"H6, Upper Holmes Road",30,360,,0,0,0,0,*,0,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA
+130,"K14, Cane Spring",30,360,,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+131,"D13, Yucca Mt., Castle Point Road Lower",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,"D12, Yucca Mt., Castle Point Road Upper",30,540,,*,0,0,*,0,0,0,0,0,*,0,0,1,2,0,0,0,0
+133,"E15, West Busted Butte",30,180,,0,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,"J14, Area 27 Road",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,"J10, Mine Mountain",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+136,"I8, Redrock Valley Area",30,180,,0,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,"D12, Yucca Mt. Castle Point Road Middle",30,180,,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,"F10, South of Buggy, Chukar Canyon",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,"E9, 30E-9 Radsafe, East Cat Canyon",30,180,,0,*,1,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,"E9, S. Timber Mt., East Flank, East Cat Canyon",30,180,,1,*,1,2,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+141,"J8, Syncline Ridge",30,180,,0,*,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+142,"G6, Water Bottle Canyon",30,180,,0,*,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+143,"H6, Wash east of Water Bottle Canyon",30,360,,0,*,0,*,0,0,*,0,0,*,*,0,NA,NA,NA,NA,NA,NA
+144,"F3, 19-03 Road East",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,"E3, 19-03 Road West (VABM Silent)",30,180,,0,*,1,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,"F4, South Silent Canyon, Oak Wash",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+147,"G4, Upper 19-04 Road",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+148,"H3, Lambs Canyon",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+149,"G2, End of Dead Horse Flat",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+150,"F3, Plateau Road (Middle)",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,"F4, Plateau Road Wash",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,"E4, 20-14C Barricade Powerline Road",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,"E3, 20-1 Road North spur",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,"F10, 30F-22, 40-mile Canyon",30,270,,*,0,*,0,*,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,"H11, Shoshone Mt. Ridge",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+156,"H12, Shoshone Mt. Radio Tower above Tiva Canyon",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+157,"I10,Northeast of  Shoshone Mt. north of 16-04 Road",30,180,,*,0,0,*,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+158,"G6, SE corner Big Burn Valley, Water Bottle Canyon",30,360,,*,0,0,*,*,0,*,0,0,*,*,0,NA,NA,NA,NA,NA,NA
+159,"H5, Back Mesa Road Upper, 19G-6",30,180,,*,*,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+160,"H6, Back Mesa Road Lower, 19G-11",30,360,,*,0,0,*,*,0,*,0,0,*,*,0,NA,NA,NA,NA,NA,NA
+161,"G6, 18-01 Road by Well 8",20-30,170,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+162,"G2, Dead Horse Flat",30,180,,*,*,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+163,"D3, 20-1 Road, UE20e pad west",30,180,,0,*,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+164,"D3, 20-1 Road, UE20e pad east",30,180,,0,*,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,"K14, North of Cane Spring",30,180,,*,0,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,"I13, Lookout Peak Area",30,180,,*,0,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+167,"J6, Captain Jack Spring Wash",26-30,176,,0,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+168,"J7, Tippipah Highway Wash",27-30,144,,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

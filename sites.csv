@@ -1,0 +1,155 @@
+LocationCode,LocationName,UTME83,UTMN83,NTSArea,Elevation,%Slope,Aspect,Geology Type,SoilSubstrate,NewSoilSubstrate,Landform,NEWLandform,NEW Vegetation,Ecoregion,PLGI,Moisture,NEWMoisture
+167,"J6, Captain Jack Spring Wash",575222,4114083,12,1616,Varied,Varied,Sedimentary,Gravel/Litter/Rock,Litter,Bajada/Wash,Drainage,Blackbrush,Transition,no,Dry/Ephemeral wash,Dry
+168,"J7, Tippipah Highway Wash",575726,4108157,2,1473,5,80,Sedimentary,Gravel/Litter,Litter,Bajada/Draw,Drainage,Blackbrush,Transition,no,Dry/Ephemeral wash,Dry
+54,"M8, Paiute Ridge Slope/Wash",591730,4103798,7,1418,37,20,Sedimentary,Rock/Gravel,Rock,Hillslope/Ravine,Drainage,Blackbrush,Transition,no,Dry/Ephemeral wash,Dry
+52,"L16, Burma Road Canyon",589693,4063348,5,1159,Varied,10,Sedimentary,Rock/Gravel,Rock,Hillslope/Ravine/Rock outcrop,Drainage,Blackbrush,Mojave,no,Dry/Ephemeral wash,Dry
+51,"L16, Area 5 Cave Wash",588920,4062835,5,1140,Varied,Varied,Sedimentary,Rock/Gravel,Rock,Wash/Hillslope,Drainage,Blackbrush,Mojave,no,Dry/Ephemeral wash,Dry
+107,"L7, South Banded Mountain",589303,4109763,9,1555,40,60,Sedimentary,Rock/Gravel,Rock,Hill/Rock outcrop,Hill/Knoll,Blackbrush,Transition,no,Dry,Dry
+109,"L6, South Rhyolite Hills (Gate 700)",588653,4116501,10,1433,Varied,Varied,Volcanic,Rock/Gravel,Rock,Hill/Rock outcrop,Hill/Knoll,Blackbrush,Transition,no,Dry,Dry
+141,"J8, Syncline Ridge",575280,4102417,1,1476,Varied,Varied,Sedimentary,Rock/Litter/Gravel,Litter,Ridge/Rock outcrop,Ridge,Blackbrush,Transition,no,Dry,Dry
+74,"L17, Red Mountain",588463,4060309,5,1384,32,160,Sedimentary,Rock,Rock,Ridge/Rock outcrop,Ridge,Blackbrush,Mojave,no,Dry,Dry
+30,Tippipah Spring Upland,570909,4100080,16,1590,7,220,Sedimentary,Rock/Gravel/Loamy sand,Soil,Ridge/Rock outcrop,Ridge,Blackbrush,Transition,no,Dry,Dry
+135,"J10, Mine Mountain",576583,4094543,6,1509,Varied,Varied,Sedimentary,Rock/Litter,Litter,Hillslope/Ridge/Rock outcrop,Ridge,Blackbrush,Transition,no,Dry,Dry
+103,"I12, Mid Valley Road, MV-34",573941,4083641,14,1396,Varied,Varied,Sedimentary,Rock/Boulder/Gravel,Boulder,Hillslope/Rock outcrop,Slope,Blackbrush,Transition,no,Dry,Dry
+111,"L5, East of Tub Spring, Rhyolite Hills",585442,4121585,15,1555,Varied,270,Volcanic,Rock/Boulder,Boulder,Hillslope/Rock outcrop,Slope,Blackbrush,Great Basin,no,Dry,Dry
+38,"I17, Rock Valley",571702,4059239,25,1117,45,Varied,Sedimentary,Gravel/Litter,Litter,Hillslope/Rock outcrop,Slope,Blackbrush,Mojave,no,Dry,Dry
+166,"I13, Lookout Peak Area",573603,4079733,26,1660,58,210,Volcanic,Gravel/Litter/Rock,Litter,Hillslope/Rock outcrop,Slope,Blackbrush,Transition,no,Dry,Dry
+72,"M17, Mercury Pass",590858,4060766,5,1311,Varied,Varied,Sedimentary,Rock,Rock,Hillslope/Rock outcrop,Slope,Blackbrush,Mojave,no,Dry,Dry
+53,"M8, Reitmann Seep Ridge",591443,4105534,7,1433,Varied,Varied,Volcanic,Rock,Rock,Hillslope/Rock outcrop,Slope,Blackbrush,Transition,no,Dry,Dry
+131,"D13, Yucca Mt., Castle Point Road Lower",549512,4080191,25,1341,Varied,220,Volcanic,Rock/Gravel,Rock,Hillslope/Rock outcrop,Slope,Blackbrush,Transition,no,Dry,Dry
+134,"J14, Area 27 Road",579026,4072853,27,1341,Varied,Varied,Volcanic,Gravel/Rock,Rock,Hillslope/Rock outcrop,Slope,Blackbrush,Transition,no,Dry,Dry
+100,"I15, Skull Mountain South",571297,4067553,25,1707,28,290,Volcanic,Rock,Rock,Mountain top/Rock outcrop/Scree,Slope,Blackbrush,Mojave,no,Dry,Dry
+99,"I15, Skull Mountain North",572592,4069724,25,1738,47,320,Volcanic,Rock,Rock,Mountain top/Rock outcrop/Talus,Slope,Blackbrush,Mojave,no,Dry,Dry
+43,Buckboard Mesa North slope/ledges,555717,4110677,18,1662,55,20,Volcanic,Scree/Cobble,Rock,Mesa slope/Cliff,Cliff,Nevada Ephedra,Great Basin,no,Dry,Dry
+1,Lower 40-mile Cottonwood Spring Wash,555036,4083467,25,1140,6,80,Sedimentary,Rock/Sand/Gravel,Soil,Bajada/Ravine,Drainage,Nevada Ephedra,Transition,no,Dry/Ephemeral wash,Dry
+8,40-mile Wash Ledges,555466,4087150,29,1189,1,170,Sedimentary,Rock/Sand/Gravel,Soil,Wash/Pinnacle,Drainage,Nevada Ephedra,Transition,no,Dry/Ephemeral wash,Dry
+45,"Buckboard Mesa Top, East Edge Wash",557127,4107484,18,1616,10,80,Volcanic,Rock/Cobble/Loamy sand,Soil,Mesa top/Wash,Drainage,Nevada Ephedra,Great Basin,no,Dry/Ephemeral wash,Dry
+79,"L11, Knoll West of Area 6 Heavy Equipment Yard",584993,4088581,6,1220,Varied,Varied,Volcanic,Boulder/Rock,Boulder,Knoll/Rock outcrop,Hill/Knoll,Nevada Ephedra,Transition,no,Dry,Dry
+75,"L12, Southeast of Yucca Playa",589079,4085690,6,1232,Varied,Varied,Volcanic,Gravel/Boulder,Boulder,Knoll/Rock outcrop,Hill/Knoll,Nevada Ephedra,Transition,no,Dry,Dry
+80,"L11, Knolls Southwest of Yucca Playa",585349,4088034,6,1232,Varied,Varied,Volcanic,Boulder,Boulder,Knoll/Saddle/Rock outcrop,Hill/Knoll,Nevada Ephedra,Transition,no,Dry,Dry
+106,"L7, 901 Road east, 9B-39",586949,4109195,9,1366,40,280,Volcanic,Rock/Boulder/Sand,Boulder,Knoll/Rock outcrop,Hill/Knoll,Nevada Ephedra,Transition,no,Dry,Dry
+102,"J13, Mid Valley Road, MV-47",576355,4079311,26,1540,40,Varied,Volcanic,Rock/Gravel/Boulder/Litter,Litter,Knoll/Rock outcrop,Hill/Knoll,Nevada Ephedra,Transition,no,Dry,Dry
+136,"I8, Redrock Valley Area",569886,4103969,17,1646,50,Varied,Volcanic,Rock/Gravel/Litter,Litter,Hillslope/Knoll/Rock outcrop,Hill/Knoll,Nevada Ephedra,Transition,no,Dry,Dry
+41,"H13, Kiwi Mesa",568833,4079008,25,1386,Varied,280,Volcanic,Litter/Gravel,Litter,Ridgetop/Hillslope,Ridge,Nevada Ephedra,Mojave,no,Dry,Dry
+56,"M10, Orange Blossom Road South",590110,4092952,6,1226,10,30,Volcanic,Rock/Gravel,Rock,Ridge/Rock outcrop,Ridge,Nevada Ephedra,Transition,no,Dry,Dry
+33,Trail Ridge,542243,4127418,20,1841,5,10,Volcanic,Rock/Gravel/Sandy loam,Soil,Rock outcrop,Ridge,Nevada Ephedra,Great Basin,no,Dry,Dry
+55,"M10, Orange Blossom Road North",590219,4095199,6,1274,Varied,Varied,Volcanic,Rock/Gravel,Rock,Hillslope/Ridge,Ridge,Nevada Ephedra,Transition,no,Dry,Dry
+104,"I10, Mid Valley, North of HEST facility",572367,4093466,16,1494,13,210,Volcanic,Boulder/Rock/Gravel,Boulder,Hillslope/Rock outcrop,Slope,Nevada Ephedra,Transition,no,Dry,Dry
+46,CP Hogback Ridge,584915,4087567,6,1250,Varied,Varied,Volcanic,Boulder/Rock/Cobble/Sandy loam,Boulder,Hillslope,Slope,Nevada Ephedra,Transition,no,Dry,Dry
+82,"M9, Scarp Canyon, east of SC51 Radsafe",594654,4099195,3,1396,15,260,Volcanic,Rock/Boulder,Boulder,Hillslope,Slope,Nevada Ephedra,Transition,no,Dry,Dry
+165,"K14, North of Cane Spring",580682,4074069,5,1210,Varied,Varied,Volcanic,Gravel/Litter/Rock,Litter,Hillslope/Rock outcrop,Slope,Nevada Ephedra,Transition,no,Dry,Dry
+81,"M9, North of Camera Station Butte",590504,4100174,3,1296,18,250,Volcanic,Rock,Rock,Hillslope,Slope,Nevada Ephedra,Transition,no,Dry,Dry
+48,"Upper Fortymile Canyon, East Ledges",559217,4103293,18,1524,3,240,Volcanic,Boulder/Rock,Boulder,Hilltop/Rock outcrop,Slope,Nevada Ephedra,Great Basin,no,Dry,Dry
+44,Buckboard Mesa Top,556683,4107440,18,1652,4,50,Volcanic,Cobble/Gravel/Loamy sand,Soil,Mesa top,Slope,Nevada Ephedra,Great Basin,no,Dry,Dry
+71,"H7, Pahute Mesa Road 18P-29 Hill",566780,4110185,18,1814,Varied,Varied,Volcanic,Boulder/Rock,Boulder,Hill/Cliff,Cliff,Sagebrush,Great Basin,no,Dry,Dry
+154,"F10, 30F-22, 40-mile Canyon",556831,4094855,30,1326,Varied,Varied,Volcanic,Litter/Gravel/Sand,Litter,Knoll/Wash/Rock outcrop,Drainage,Sagebrush,Great Basin,no,Dry,Dry
+91,"D3, 20-1 Road, 20J46 Radsafe",546907,4127938,20,1915,Varied,Varied,Volcanic,Rock/Soil/Litter,Litter,Hillslope/Wash,Drainage,Sagebrush,Great Basin,no,Dry,Dry
+128,"H10, Shoshone Mt., 16-04 Road",569650,4095665,16,1799,Varied,Varied,Volcanic,Rock,Rock,Mountain slope/Wash/Rock outcrop,Drainage,Sagebrush,Great Basin,no,Dry,Dry
+108,"M6, Rounded Ridge",591278,4112683,10,1540,Varied,270,Volcanic,Rock/Gravel,Rock,Hillslope/Ravine/Rock outcrop,Drainage,Sagebrush,Great Basin,no,Dry,Dry
+23,PAM 001 Wash,548262,4122206,20,1910,2,240,Volcanic,Sand/Gravel/Rock,Soil,Rock outcrop/Draw,Drainage,Sagebrush,Great Basin,no,Dry,Dry
+24,PAM 001 Ridge West,547464,4122292,20,1915,40,200,Volcanic,Loamy sand/Boulders,Boulder,Rock outcrop,Ridge,Sagebrush,Great Basin,no,Dry,Dry
+164,"D3, 20-1 Road, UE20e pad east",548151,4129992,20,1905,Varied,Varied,Volcanic,Litter/Gravel/Rock,Litter,Mesa top/Rock outcrop,Ridge,Sagebrush,Great Basin,no,Dry,Dry
+60,"F9, 30-1C Barricade Area",555603,4101616,30,1601,Varied,120,Volcanic,Boulder/Rock,Boulder,Hillslope/Rock outcrop,Slope,Sagebrush,Great Basin,no,Dry,Dry
+92,"D3, S-13 Road, Near 20LF Road Radsafe",545561,4129978,20,1921,Varied,Varied,Volcanic,Rock/Litter,Litter,Hillslope/Rock outcrop,Slope,Sagebrush,Great Basin,no,Dry,Dry
+105,"J8, North of Area 1 Shaker Plant",575973,4104422,4,1448,Varied,70,Sedimentary,Rock/Gravel,Rock,Hillslope/Rock outcrop,Slope,Sagebrush,Transition,no,Dry,Dry
+17,Yellow Rock Springs Slope,555670,4092320,29,1300,40,120,Sedimentary,Rock,Rock,Hillslope,Slope,Sagebrush,Transition,no,Dry,Dry
+77,"M12, North of RWMC5",592515,4082923,11,1128,Varied,Varied,Volcanic,Rock/Boulder,Boulder,Knoll/Rock outcrop,Hill/Knoll,White bursage,Mojave,no,Dry,Dry
+78,"M12, EODU, 6-03 Road",590831,4084767,6,1311,Varied,Varied,Volcanic,Rock/Boulder/Litter,Litter,Hill/Rock outcrop,Hill/Knoll,White bursage,Mojave,no,Dry,Dry
+49,"L14, Mara Wash Powerline Road East",587649,4073588,5,1037,32,50-120,Volcanic,Rock/Boulders/Gravel,Boulder,Hillslope,Slope,White bursage,Mojave,no,Dry,Dry
+40,"F17, Striped Hills",557171,4058212,25,913,Varied,Varied,Sedimentary,Gravel/Litter,Litter,Hillslope/Rock outcrop,Slope,White bursage,Mojave,no,Dry,Dry
+39,"G16, Little Skull Mountain",560352,4064762,25,1238,Varied,Varied,Volcanic,Gravel/Litter,Litter,Mountain slope/Rock outcrop,Slope,White bursage,Mojave,no,Dry,Dry
+73,"M17, 5-7C Barricade",591634,4060732,5,1280,43,20,Sedimentary,Rock,Rock,Hillslope/Rock outcrop,Slope,White bursage,Mojave,no,Dry,Dry
+133,"E15, West Busted Butte",550824,4071671,25,1128,45,70,Volcanic,Gravel/Rock,Rock,Butte slope/Rock outcrop,Slope,White bursage,Mojave,no,Dry,Dry
+50,"L14, Mara Wash Powerline Road West",586445,4072840,5,1049,13,100,Volcanic,Rock/Gravel/Cobble,Rock,Hillslope,Slope,White bursage,Mojave,no,Dry,Dry
+121,"F5, West of South Silent Canyon",558279,4117986,19,2195,Varied,300,Volcanic,Gravel/Rock/Litter,Litter,Mesa edge/Cliff,Cliff,Woodland,Great Basin,no,Dry,Dry
+122,"F6, Pahute Mesa, North of Blacktop Buttes",557277,4116630,19,2195,Varied,Varied,Volcanic,Rock/Gravel/Litter,Litter,Mesa edge/Cliff/Rock outcrop,Cliff,Woodland,Great Basin,no,Dry,Dry
+123,"H4, Kawich Canyon, KV-16 Radsafe",569064,4123307,12,2012,40,290,Volcanic,Gravel/Litter/Rock,Litter,Hillslope/Cliff/Rock outcrop,Cliff,Woodland,Great Basin,no,Dry,Dry
+57,"E9, East Cat Canyon, 30E-5",553364,4100566,30,1677,40,150,Sedimentary,Boulder/Rock,Boulder,Hillslope/Wash,Drainage,Woodland,Great Basin,no,Dry/Ephemeral wash,Dry
+160,"H6, Back Mesa Road Lower, 19G-11",566758,4116110,19,1902,Varied,Varied,Volcanic,Litter/Gravel,Litter,Canyon/Wash/Rock outcrop,Drainage,Woodland,Great Basin,no,Dry/Ephemeral wash,Dry
+36,Well 8 Cave/Wash,562467,4113704,18,1768,10,150,Volcanic,Rock/Gravel/Sand,Soil,Ravine/Shallow cave,Drainage,Woodland,Great Basin,no,DRY/Ephemeral wash,Dry
+101,Trail Ridge South,542252,4127171,20,1845,Varied,Varied,Volcanic,Rock/Soil,Soil,Hillslope/Draw/Rock outcrop,Drainage,Woodland,Great Basin,no,Dry,Dry
+159,"H5, Back Mesa Road Upper, 19G-6",566558,4118044,19,2043,35,190,Volcanic,Gravel/Litter,Litter,Ridge/Rock outcrop,Ridge,Woodland,Great Basin,no,Dry,Dry
+155,"H11, Shoshone Mt. Ridge",568108,4087815,29,2055,Varied,Varied,Volcanic,Gravel/Litter,Litter,Ridge/Rock outcrop,Ridge,Woodland,Great Basin,no,Dry,Dry
+129,"H6, Upper Holmes Road",568930,4114832,12,2149,Varied,Varied,Volcanic,Rock/Litter,Litter,Mesa slope/Ridge/Rock outcrop,Ridge,Woodland,Great Basin,no,Dry,Dry
+64,"F2, West Dead Horse Flat",558828,4132366,19,2061,20,50,Volcanic,Rock/Gravel,Rock,Mountain valley/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+69,"Pahute Mesa Road, 19P-49",564197,4116187,19,1915,7,120,Volcanic,Rock/Gravel/Boulders,Boulder,Hillslope/Rock outcrop,Slope,Woodland,Great Basin,no,DRY,Dry
+58,"E9, East Cat Canyon, west",550415,4101336,30,1829,44,170,Volcanic,Boulder/Rock,Boulder,Hillslope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+161,"G6, 18-01 Road by Well 8",562040,4112932,18,1707,Varied,310,Sedimentary,Gravel/Loamy sand/Litter,Litter,Mesa slope/Talus,Slope,Woodland,Great Basin,no,Dry,Dry
+158,"G6, SE corner Big Burn Valley, Water Bottle Canyon",563835,4116220,19,1927,35,260,Volcanic,Litter/Gravel,Litter,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+144,"F3, 19-03 Road East",556000,4128552,19,2043,33,330,Volcanic,Rock/Litter,Litter,Hillslope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+148,"H3, Lambs Canyon",564910,4129867,19,2030,40,330,Volcanic,Gravel/Litter,Litter,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+94,"Rainier Mesa, 12A24",572048,4118733,12,2152,Varied,Varied,Volcanic,Gravel/Rock/Litter,Litter,Hillslope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+98,"E4, Pahute Mesa, Valley west of Columbine Canyon",553623,4124392,20,1988,28,270,Volcanic,Gravel/Litter,Litter,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+149,"G2, End of Dead Horse Flat",561250,4135386,19,2128,50,360,Volcanic,Rock/Litter,Litter,Mesa slope/Scree,Slope,Woodland,Great Basin,no,Dry,Dry
+61,"E2, West of 1903 Road, South",554680,4133032,19,2067,43,Varied,Volcanic,Rock/Gravel,Rock,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+62,"E2, West of 1903 Road, North",554665,4134769,19,2058,Varied,60,Volcanic,Rock/Gravel,Rock,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+153,"E3, 20-1 Road North spur",549887,4128712,20,1970,Varied,Varied,Volcanic,Rock/Soil/Gravel,Soil,Mesa slope/Scree,Slope,Woodland,Great Basin,no,Dry,Dry
+156,"H12, Shoshone Mt. Radio Tower above Tiva Canyon",569196,4086402,29,2073,Varied,280,Volcanic,Gravel/Litter,Litter,Mountain top/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+84,"H11, Shoshone Mountain, Topopah Pass",567496,4089036,29,1970,Varied,Varied,Volcanic,Rock/Litter,Litter,Mountain top/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+27,Nick Adams Cutoff Plot,569251,4116036,12,2256,4,160,Volcanic,Rock/Gravel,Rock,Mesa top/Rock outcrop,Slope,Woodland,Great Basin,no,Dry/QUGA,Dry
+150,"F3, Plateau Road (Middle)",558451,4129002,19,2067,Varied,Varied,Volcanic,Gravel/Litter,Litter,Mountain valley/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+65,"G3, Dead Horse Flat (south of Firing Range)",560967,4129542,19,2073,15,270,Sedimentary,Boulder/Rock/Litter,Litter,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Dry,Dry
+157,"I10,Northeast of  Shoshone Mt. north of 16-04 Road",570711,4094071,16,1634,Varied,Varied,Volcanic,Litter/Gravel/Rock,Litter,Ridge/Rock outcrop,Ridge,Blackbrush,Transition,yes,Dry,Dry
+137,"D12, Yucca Mt. Castle Point Road Middle",548531,4082214,25,1494,20,220,Volcanic,Rock/Litter/Gravel,Litter,Hillslope/Rock outcrop,Slope,Blackbrush,Transition,yes,Dry,Dry
+19,30-2C Boulder Slope,562599,4100776,30,1463,33,140,Volcanic,Loamy sand/Boulders,Boulder,Mesa slope/Cliff,Cliff,Sagebrush,Great Basin,yes,Dry,Dry
+34,"Buckboard Mesa Road, 20a-113",549712,4116159,20,1744,18,Varied,Volcanic,Rock/Boulder/Loamy sand,Boulder,Knoll,Hill/Knoll,Sagebrush,Great Basin,yes,Dry,Dry
+63,"F2, North end of 19-03 Road",555398,4136790,19,2043,Varied,200,Volcanic,Rock/Gravel,Rock,Knoll/Rock outcrop,Hill/Knoll,Sagebrush,Great Basin,yes,Dry,Dry
+117,"D5, Pahute Mesa near 20-5 Sump",546405,4119751,20,1896,30,Varied,Volcanic,Rock/Gravel,Rock,Mountain valley/Rock outcrop,Ridge,Sagebrush,Great Basin,yes,Dry,Dry
+139,"E9, 30E-9 Radsafe, East Cat Canyon",551953,4100714,30,1768,60,160,Volcanic,Rock/Soil/Litter,Litter,Hillslope/Cliff/Rock outcrop,Cliff,Woodland,Great Basin,yes,Dry,Dry
+145,"E3, 19-03 Road West (VABM Silent)",553389,4130536,19,2095,Varied,Varied SE to SW,Volcanic,Rock/Litter,Litter,Mesa slope/Cliff,Cliff,Woodland,Great Basin,yes,Dry,Dry
+140,"E9, S. Timber Mt., East Flank, East Cat Canyon",550025,4100427,30,1872,Varied,Varied,Volcanic,Rock/Soil,Soil,Ridge/Rock outcrop,Ridge,Woodland,Great Basin,yes,Dry,Dry
+89,"I6, Holmes Road",570267,4113288,17,2012,Varied,170,Volcanic,Boulder/Rock/Sand/Litter,Litter,Mesa slope,Slope,Woodland,Great Basin,yes,Dry,Dry
+115,"F6, Slope of Blacktop Buttes",556257,4113479,18,1753,Varied,200,Volcanic,Rock/Litter/Boulders,Litter,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,yes,Dry,Dry
+83,"H11, Shoshone Mountain East",569799,4087831,29,2018,28,320,Volcanic,Rock/Litter,Litter,Mountain slope/Rock outcrop,Slope,Woodland,Great Basin,yes,Dry,Dry
+127,"I10, Shoshone Mt., 16 A Tunnel Canyon",571560,4096348,16,1677,Varied,Varied,Volcanic,Rock/Litter,Litter,Mountain slope/Ravine,Drainage,Blackbrush,Great Basin,no,Mesic area/RHTR,Wet/Mesic
+16,Yellow Rock Springs,555896,4092004,29,1298,10,270,Volcanic,Gravel/Rock,Rock,Draw/Spring,Drainage,Blackbrush,Transition,no,Wet/Spring,Wet/Mesic
+130,"K14, Cane Spring",580656,4072939,27,1235,Varied,350,Sedimentary,Sandy loam/Litter,Litter,Hillslope/Spring,Slope,Blackbrush,Transition,no,Wet/Spring,Wet/Mesic
+21,Cottonwood Spring,553965,4083926,25,1292,39,80,Volcanic,Rock/Boulders,Boulder,Hillslope/Spring/Draw,Drainage,Nevada Ephedra,Transition,no,Wet/Spring,Wet/Mesic
+22,Horse Wash at Pahute Mesa Road,567452,4106718,18,1695,5,220,Volcanic,Boulder/Sand/Rock,Boulder,Wash,Drainage,Nevada Ephedra,Great Basin,no,Mesic wash/LECI,Wet/Mesic
+47,"Old Buckboard Mesa Road, 18A-65 Wash",561481,4103136,18,1494,5,180,Volcanic,Boulder/Cobble/Sand,Boulder,Wash,Drainage,Nevada Ephedra,Great Basin,no,"Mesic Wash/LECI, RHTR",Wet/Mesic
+76,"L12, South edge of Yucca Playa",587320,4086429,6,1220,Varied,Varied,Volcanic,Boulder,Boulder,Hill/Rock outcrop,Hill/Knoll,Nevada Ephedra,Transition,no,Mesic/SYLO,Wet/Mesic
+125,"H5, Gold Meadows, KV-3 Radsafe",568836,4119650,12,2146,Varied,Varied,Metamorphic,Gravel/Litter/Rock,Litter,Knoll/Rock outcrop,Hill/Knoll,Nevada Ephedra,Great Basin,no,Mesic area/RICE,Wet/Mesic
+59,"F9, Upper 40-mile Training Area",559726,4100184,30,1433,45,10,Volcanic,Rock/Boulders,Boulder,Hillslope/Ravine/Rock outcrop,Drainage,Sagebrush,Great Basin,no,"Mesic/ARTR,SYLO",Wet/Mesic
+113,"E6, Microhabitat on 18-5 Road",550474,4112179,18,1683,10,50,Volcanic,Sand/Boulders,Boulder,Wash/Rock outcrop,Drainage,Sagebrush,Great Basin,no,Mesic wash/LECI,Wet/Mesic
+31,Tippipah Spring Wash,570725,4100083,16,1585,4,Varied,Sedimentary,JUBA/Gravel/Sand,Litter,Wash/Spring,Drainage,Sagebrush,Transition,no,Wet/Spring,Wet/Mesic
+42,"F10, 30F-16, 40-mile canyon side wash, FAG155 Pole",559024,4095808,30,1378,Varied,330,Sedimentary,Litter/Gravel,Litter,Hillslope/Ravine,Drainage,Sagebrush,Great Basin,no,Mesic Wash/RHTR,Wet/Mesic
+138,"F10, South of Buggy, Chukar Canyon",554969,4096051,30,1567,Varied,Varied,Volcanic,Rock/Soil/Litter,Litter,Canyon/Wash,Drainage,Sagebrush,Great Basin,no,Mesic/HODU,Wet/Mesic
+151,"F4, Plateau Road Wash",558452,4126390,19,2043,Varied,Varied,Volcanic,Gravel/Litter,Litter,Canyon/Wash/Rock outcrop,Drainage,Sagebrush,Great Basin,no,"Mesic wash/LECI, HODU",Wet/Mesic
+163,"D3, 20-1 Road, UE20e pad west",547830,4130261,20,1913,Varied,350,Volcanic,Litter/Rock/Loamy sand/Gravel,Litter,Upper Canyon/Rock outcrop,Slope,Sagebrush,Great Basin,no,Mesic canyon/RHTR,Wet/Mesic
+162,"G2, Dead Horse Flat",559776,4133936,19,2073,Varied,Varied,Volcanic,Litter/Gravel/Loamy sand/Rock,Litter,Canyon/Cliff,Cliff,Woodland,Great Basin,no,"Mesic area/RHTR, HODU",Wet/Mesic
+90,"I6, East of G Tunnel",572641,4113948,12,1817,Varied,Varied,Sedimentary,Gravel/Litter,Litter,Hillslope/Ravine,Drainage,Woodland,Great Basin,no,"Mesic area/QUGA, LECI, RHTR",Wet/Mesic
+67,"G4, 19T-55 Wash Area",561369,4122045,19,2128,Varied,Varied,Sedimentary,Rock/Gravel/Litter,Litter,Hillslope/Wash,Drainage,Woodland,Great Basin,no,"Mesic area/LECI, QUGA",Wet/Mesic
+85,"G11, Topopah Spring Area",564866,4088301,29,1753,Varied,Varied,Volcanic,Rock/Vegetation,Litter,Mountain slope/Spring/Wash/Rock outcrop,Drainage,Woodland,Great Basin,no,Wet/Spring,Wet/Mesic
+142,"G6, Water Bottle Canyon",563900,4115578,19,1872,Varied,Varied,Volcanic,Rock/Gravel/Litter,Litter,Canyon/Wash/Cliff,Drainage,Woodland,Great Basin,no,Mesic wash/LECI,Wet/Mesic
+143,"H6, Wash east of Water Bottle Canyon",564876,4114676,19,1799,Varied,Varied,Volcanic,Rock/Sand,Soil,Canyon/Wash/Cliff,Drainage,Woodland,Great Basin,no,"Mesic wash/RHTR, LECI",Wet/Mesic
+124,"I5, Gold Meadows Spring Area",570253,4120811,12,2055,Varied,Varied,Metamorphic,Gravel/Litter,Litter,Mountain valley/Rock outcrop/Spring,Drainage,Woodland,Great Basin,no,Wet/Spring,Wet/Mesic
+35,Camp 17 Pond,565414,4113178,18,1768,2,200,Sedimentary,Gravel/Rock/Vegetation,Litter,Mountain Valley/Pond,Drainage,Woodland,Great Basin,no,Wet/Pond,Wet/Mesic
+37,"Rainier Mesa Top, 12 R Road, Sites 1-6",569685,4115929,12,2265,3,Varied,Volcanic,Rock/Sandy loam,Soil,Mesa top/Bedrock/Ephemeral Pool,Drainage,Woodland,Great Basin,no,"Mesic area/LECI, QUGA",Wet/Mesic
+68,"G4, Pahute Mesa Pond Area",561733,4125406,19,2116,27,270,Volcanic,Boulder/Rock/Litter,Litter,Ridge/Rock outcrop,Ridge,Woodland,Great Basin,no,Mesic area/QUGA,Wet/Mesic
+95,"E5, Valley South of 20-2 Sump",553304,4117401,20,2027,Varied,Varied,Volcanic,Gravel/Rock/Litter,Litter,Mountain valley/Rock outcrop,Slope,Woodland,Great Basin,no,Mesic area/Carex,Wet/Mesic
+96,"E5, Pahute Mesa, North of 20-2 Sump",554497,4119973,19,2061,Varied,Varied,Volcanic,Gravel/Rock/Litter,Litter,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Mesic area/RHTR,Wet/Mesic
+152,"E4, 20-14C Barricade Powerline Road",550074,4126122,20,1982,35,330,Volcanic,Rock/Soil/Gravel,Soil,Mesa slope/Rock outcrop,Slope,Woodland,Great Basin,no,Mesic/RHTR,Wet/Mesic
+97,"E4, Columbine Canyon",554447,4125457,20,1963,Varied,Varied,Volcanic,Rock/Litter/Soil,Litter,Canyon/Wash/Cliff,Drainage,Sagebrush,Great Basin,no,"Mesic Wash/LECI, AQFO",Wet/Mesic
+119,"G5, Valley east of Echo Peak Substation",561484,4119900,19,2159,Varied,Varied,Sedimentary,Gravel/Litter/Rock/Boulders,Litter,Mountain valley/Rock outcrop,Ridge,Sagebrush,Great Basin,no,"Mesic area/LECI, QUGA",Wet/Mesic
+147,"G4, Upper 19-04 Road",561973,4123534,19,2128,Varied,Varied,Volcanic,Rock/Litter,Litter,Mountain valley/Rock outcrop/Ridge,Ridge,Sagebrush,Great Basin,no,Mesic area/LECI,Wet/Mesic
+146,"F4, South Silent Canyon, Oak Wash",557396,4123330,19,2030,Varied,320,Volcanic,Litter/Rock,Litter,Hillslope/Ravine,Drainage,Woodland,Great Basin,no,"Mesic wash/HODU, QUGA",Wet/Mesic
+120,"F5, Pahute Mesa, South Silent Canyon, 19E-17",558980,4120866,19,2149,Varied,Varied,Volcanic,Rock/Litter/Gravel,Litter,Mesa slope/Ravine,Drainage,Woodland,Great Basin,no,"Mesic area/LECI, QUGA",Wet/Mesic
+66,"G3, Lambs Canyon Road",562892,4130072,19,2055,30,Varied,Volcanic,Boulder/Rock,Boulder,Hill/Rock outcrop,Hill/Knoll,Woodland,Great Basin,no,"Mesic area/LECI, RHTR",Wet/Mesic
+88,"I5, Rainier Mesa, 12T14 Radsafe",570494,4117587,12,2244,Varied,Varied,Volcanic,Boulder/Litter,Litter,Mesa top/Ridge,Ridge,Woodland,Great Basin,no,Mesic area/QUGA,Wet/Mesic
+126,"H5, Back Mesa Road",567401,4120274,19,2183,70,20,Volcanic,Rock/Gravel,Rock,Hillslope/Rock outcrop,Slope,Woodland,Great Basin,no,Mesic area/HODU,Wet/Mesic
+110,"L5, Tub Spring Area",584866,4122015,15,1601,Varied,110,Volcanic,Sand/Gravel/Litter,Litter,Butte slope/Draw/Spring/Building,Drainage,Blackbrush,Great Basin,yes,Wet/Spring,Wet/Mesic
+29,Whiterock Spring/Wash,576994,4117528,12,1539,4,160,Volcanic,Gravel,Rock,Wash/Spring/Adit/Road,Drainage,Blackbrush,Transition,yes,Wet/Spring,Wet/Mesic
+132,"D12, Yucca Mt., Castle Point Road Upper",547917,4083073,,1555,Varied,Varied,Volcanic,Rock/Gravel,Rock,Hillslope/Rock outcrop/Ravine,Drainage,Blackbrush,Transition,yes,"Mesic area/ARTR, SYLO",Wet/Mesic
+18,30-2C Barricade Wash,562878,4100833,30,1463,2,260,Sedimentary,Sand/Boulders,Boulder,Draw,Drainage,Nevada Ephedra,Great Basin,yes,Mesic wash/LECI,Wet/Mesic
+93,"C3, Canyon Northwest of Trail Ridge",541197,4131444,20,1677,Varied,Varied,Volcanic,Rock/Gravel/Sand,Soil,Canyon/Wash/Cliff,Drainage,Nevada Ephedra,Great Basin,yes,Mesic Wash/LECI,Wet/Mesic
+9,Twin Spring,555788,4089678,29,1310,35,220,Volcanic,Rock/Litter,Litter,Hillslope/Spring,Slope,Nevada Ephedra,Transition,yes,Wet/Spring,Wet/Mesic
+26,Ammonia Tanks,562627,4110416,18,1615,10,180,Volcanic,Boulder/Rock/Sand,Boulder,Wash/Hillslope/Tank,Drainage,Sagebrush,Great Basin,yes,Wet/Tanks,Wet/Mesic
+28,20-02 Road Borrow Area/Wash,544649,4126121,20,1848,4,250,Volcanic,Rock/Gravel/Boulder,Boulder,Rock outcrop/Wash/Borrow pit,Drainage,Sagebrush,Great Basin,yes,Mesic Wash/LECI,Wet/Mesic
+32,Schooner Wash,539009,4131337,20,1683,Varied,350,Volcanic,Rock/Boulder/Sand,Boulder,Wash/Cliff,Drainage,Sagebrush,Great Basin,yes,Mesic Wash/LECI,Wet/Mesic
+116,"D5, Pahute Mesa 20a-122, near 20-4C Barricade",548277,4119620,20,1905,35,270,Volcanic,Rock/Gravel,Rock,Mesa slope/Ravine/Rock outcrop,Drainage,Sagebrush,Great Basin,yes,Mesic area/RHTR,Wet/Mesic
+70,"H7, Pahute Mesa Road 18P-28 Wash",566078,4108791,18,1692,0-10,250,Sedimentary,Rock/Gravel/Sand,Soil,Wash/Cliff,Drainage,Sagebrush,Great Basin,yes,Mesic Wash/LECI,Wet/Mesic
+114,"E7, 18-5 Road Wash",549609,4110780,18,1671,2,80,Volcanic,Sand/Rock/Gravel,Soil,Wash/Rock outcrop,Drainage,Sagebrush,Great Basin,yes,Mesic wash/SYLO,Wet/Mesic
+112,"K4, Oak, John, and Carrie Spring",582121,4122520,15,1784,Varied,Varied,Volcanic,Litter/Gravel,Litter,Butte slope/Spring,Slope,Sagebrush,Great Basin,yes,Wet/Spring,Wet/Mesic
+118,"I6, Rainier Spring Wash, E Tunnel Road",571465,4116157,12,1845,Varied,110,Sedimentary,Gravel/Litter/Rock,Litter,Wash/Canyon,Drainage,Woodland,Great Basin,yes,"Mesic Wash/RHTR, LECI",Wet/Mesic
+87,"I5, East Rainier Mesa",574324,4119847,12,1921,1,Varied,Volcanic,Rock/Boulder/Litter,Litter,Mesa top/Rock outcrop,Ridge,Woodland,Great Basin,yes,"Mesic/RHTR, AMUT, SYLO",Wet/Mesic
+86,"G11, South of Topopah Spring",564765,4087996,29,1695,Varied,Varied,Sedimentary,Rock/Litter,Litter,Mountain valley/Rock outcrop,Slope,Woodland,Great Basin,yes,Mesic area/QUGA,Wet/Mesic

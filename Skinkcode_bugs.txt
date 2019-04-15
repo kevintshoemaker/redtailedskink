@@ -1,0 +1,80 @@
+
+  model{
+
+##################  
+    ### likelihood
+
+  for(site in 1:nsites){
+      log.effort[site] <- log(effort[site])
+      log(expcount[site]) <- log.effort[site] + basecount.log         # for now, assume equal capture rate across all occupied sites
+      expcount2[site] <- occupied[site] * expcount[site]              # zero inflation
+      p[site] <- r/(r+expcount2[site])
+      obscount[site] ~ dnegbin(p[site],r)   #dpois(expcount2[site])                         # data node
+      obscount2[site] ~ dnegbin(p[site],r)  # dpois(expcount2[site])                        # for goodness of fit testing
+      error.obs[site] <- (obscount[site]-expcount2[site])^2 
+      error.sim[site] <- (obscount2[site]-expcount2[site])^2
+  }
+  
+  toterr.obs <- sum(error.obs[])    # SSEobs
+  toterr.sim <- sum(error.sim[])    # SSEsim
+
+    ### occupancy
+  for(site in 1:nsites){  
+    logit(p.occupied[site]) <- baseocc.logit + 
+                                  beta.elev.o*elev[site] + 
+                                  beta.elev2.o*pow(elev[site],2) +
+                                  beta.moisture.o[moisture[site]] +
+                                   #beta.slope.o[slope[site]] +
+                                  beta.aspect.o[aspect[site]] +
+                                  beta.substrate.o[substrate[site]] + 
+                                   #beta.landform.o[landform[site]] + 
+                                  beta.vegassoc.o[vegassoc[site]] + 
+                                  beta.ecoregion.o[ecoregion[site]] 
+    occupied[site] ~ dbern(p.occupied[site])
+  }
+
+
+    ### priors
+  baseocc ~ dunif(0,1)
+  r ~ dunif(0.1,20)
+  basecount ~ dunif(0,2)     # baseline expected count for an occupied site
+  baseocc.logit <- log(baseocc/(1-baseocc))
+  basecount.log <- log(basecount)
+
+  beta.elev.o ~ dnorm(0,0.5)
+  beta.elev2.o ~ dnorm(0,0.5)
+
+
+  beta.aspect.o[1] <- 0
+  for(i in 2:naspects){
+    beta.aspect.o[i] ~ dnorm(0,0.5)
+  }
+
+  beta.substrate.o[1] <- 0
+  for(i in 2:nsubstrates){
+    beta.substrate.o[i] ~ dnorm(0,0.5)
+  }
+
+  # beta.landform.o[1] <- 0
+  # for(i in 2:nlandforms){
+  #   beta.landform.o[i] ~ dnorm(0,0.5)
+  # }
+
+  beta.vegassoc.o[1] <- 0
+  for(i in 2:nvegassocs){
+    beta.vegassoc.o[i] ~ dnorm(0,0.5)
+  }
+
+  beta.ecoregion.o[1] <- 0
+  for(i in 2:necoregions){
+    beta.ecoregion.o[i] ~ dnorm(0,0.5)
+  }
+
+  beta.moisture.o[1] <- 0
+  for(i in 2:nmoistures){
+    beta.moisture.o[i] ~ dnorm(0,0.5)
+  }
+
+}
+  
+  
