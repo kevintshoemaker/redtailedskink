@@ -29,7 +29,7 @@ LocationCode,LocationName,Traps,TrapNights,,Visit1,Visit2,Visit3,Visit4,Visit5,V
 42,"F10, 30F-16, 40-mile canyon side wash, FAG155 Pole",30,270,,*,0,*,0,*,0,*,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43,Buckboard Mesa North slope/ledges,29-30,209,,0,0,0,*,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 44,Buckboard Mesa Top,25,175,,0,0,0,*,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-45,"Buckboard Mesa Top, East Edge Wash",5-30,185,,0,0,0,*,0,*,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA
+45,"Buckboard Mesa Top, East Edge Wash",30-May,185,,0,0,0,*,0,*,0,0,0,0,*,0,NA,NA,NA,NA,NA,NA
 46,CP Hogback Ridge,30,150,,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 47,"Old Buckboard Mesa Road, 18A-65 Wash",20-30,190,,*,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 48,"Upper Fortymile Canyon, East Ledges",30,180,,0,*,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -67,7 +67,7 @@ LocationCode,LocationName,Traps,TrapNights,,Visit1,Visit2,Visit3,Visit4,Visit5,V
 80,"L11, Knolls Southwest of Yucca Playa",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 81,"M9, North of Camera Station Butte",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 82,"M9, Scarp Canyon, east of SC51 Radsafe",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-83,"H11, Shoshone Mountain East",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,"H11, Shoshone Mountain East",30,180,,0,0,0,0,0,0,*,0,0,*,0,1,NA,NA,NA,NA,NA,NA
 84,"H11, Shoshone Mountain, Topopah Pass",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85,"G11, Topopah Spring Area",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 86,"G11, South of Topopah Spring",30,180,,0,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -94,9 +94,9 @@ LocationCode,LocationName,Traps,TrapNights,,Visit1,Visit2,Visit3,Visit4,Visit5,V
 107,"L7, South Banded Mountain",30,180,,0,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 108,"M6, Rounded Ridge",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 109,"L6, South Rhyolite Hills (Gate 700)",30,180,,*,0,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-110,"L5, Tub Spring Area",30,180,,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,"L5, Tub Spring Area",30,180,,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 111,"L5, East of Tub Spring, Rhyolite Hills",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-112,"K4, Oak, John, and Carrie Spring",30,180,,1,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,"K4, Oak, John, and Carrie Spring",30,180,,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 113,"E6, Microhabitat on 18-5 Road",15,60,,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 114,"E7, 18-5 Road Wash",30,180,,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 115,"F6, Slope of Blacktop Buttes",30,360,,0,*,0,0,*,0,*,*,0,*,1,1,NA,NA,NA,NA,NA,NA
@@ -116,15 +116,15 @@ LocationCode,LocationName,Traps,TrapNights,,Visit1,Visit2,Visit3,Visit4,Visit5,V
 129,"H6, Upper Holmes Road",30,360,,0,0,0,0,*,0,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA
 130,"K14, Cane Spring",30,360,,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
 131,"D13, Yucca Mt., Castle Point Road Lower",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-132,"D12, Yucca Mt., Castle Point Road Upper",30,540,,*,0,0,*,0,0,0,0,0,*,0,0,1,2,0,0,0,0
+132,"D12, Yucca Mt., Castle Point Road Upper",30,540,,*,0,0,*,0,0,0,0,0,*,0,0,1,1,0,0,0,0
 133,"E15, West Busted Butte",30,180,,0,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 134,"J14, Area 27 Road",30,180,,*,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 135,"J10, Mine Mountain",30,180,,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 136,"I8, Redrock Valley Area",30,180,,0,0,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-137,"D12, Yucca Mt. Castle Point Road Middle",30,180,,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,"D12, Yucca Mt. Castle Point Road Middle",30,180,,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 138,"F10, South of Buggy, Chukar Canyon",30,180,,0,*,0,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 139,"E9, 30E-9 Radsafe, East Cat Canyon",30,180,,0,*,1,0,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-140,"E9, S. Timber Mt., East Flank, East Cat Canyon",30,180,,1,*,1,2,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,"E9, S. Timber Mt., East Flank, East Cat Canyon",30,180,,0,*,1,1,*,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 141,"J8, Syncline Ridge",30,180,,0,*,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 142,"G6, Water Bottle Canyon",30,180,,0,*,0,*,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 143,"H6, Wash east of Water Bottle Canyon",30,360,,0,*,0,*,0,0,*,0,0,*,*,0,NA,NA,NA,NA,NA,NA

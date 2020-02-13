@@ -8,9 +8,9 @@
       log.effort[site] <- log(effort[site])
       log(expcount[site]) <- log.effort[site] + basecount.log         # for now, assume equal capture rate across all occupied sites
       expcount2[site] <- occupied[site] * expcount[site]              # zero inflation
-      p[site] <- r/(r+expcount2[site])
-      obscount[site] ~ dnegbin(p[site],r)   #dpois(expcount2[site])                         # data node
-      obscount2[site] ~ dnegbin(p[site],r)  # dpois(expcount2[site])                        # for goodness of fit testing
+      #p[site] <- r/(r+expcount2[site])
+      obscount[site] ~ dpois(expcount2[site])                         # data node  dnegbin(p[site],r)   #
+      obscount2[site] ~ dpois(expcount2[site])                        # for goodness of fit testing    dnegbin(p[site],r)  # 
       error.obs[site] <- (obscount[site]-expcount2[site])^2 
       error.sim[site] <- (obscount2[site]-expcount2[site])^2
   }
@@ -36,7 +36,7 @@
 
     ### priors
   baseocc ~ dunif(0,1)
-  r ~ dunif(0.1,20)
+  #r ~ dunif(0.1,20)
   basecount ~ dunif(0,2)     # baseline expected count for an occupied site
   baseocc.logit <- log(baseocc/(1-baseocc))
   basecount.log <- log(basecount)

@@ -94,7 +94,6 @@ library(pscl)    # for zero inflated model?
 # Load custom functions
 ####################
 
-
 chisq <- function(fm) {
   umf <- getData(fm)
   y <- getY(umf)
@@ -229,7 +228,7 @@ predict.jags <- function(var,quad=F){
     }
   }  
   
-  quantiles <- sapply(1:ncol(sims), function(t) quantile(sims[,t],c(0,0.025,0.25,0.5,0.75,0.975,1))  )
+  quantiles <- sapply(1:ncol(sims), function(t) quantile(sims[,t],c(0,0.05,0.25,0.5,0.75,0.95,1))  )
   colnames(quantiles) <- newdata[,origname]
   
   filename <- sprintf("bivar_plot_%s.svg",var)
@@ -239,13 +238,13 @@ predict.jags <- function(var,quad=F){
   
   if(isfact){
     xvals <- barplot(quantiles["50%",],ylim=c(0,1),ylab="P(occurrence)")
-    errbar(xvals,quantiles["50%",],quantiles["97.5%",],quantiles["2.5%",],add=T)
+    errbar(xvals,quantiles["50%",],quantiles["95%",],quantiles["5%",],add=T)
   } else{
     sc <- scale(sitecovs[,origname])   # attributes(sc)[["scaled:center"]])/attributes(sc)[["scaled:scale"]]
     frac = diff(range(newdata[,origname]))/30
     plot(newdata[,origname],apply(quantiles,2,median),ylim=c(0,1),ylab="P(occurrence)",xlab=origname,type="l",lwd=3,
          xlim=range(newdata[,origname])+c(frac,-frac),xaxt="n")
-    polygon(c(newdata[,origname],rev(newdata[,origname])),c(quantiles["2.5%",],rev(quantiles["97.5%",])),col=gray(0.7),border=NA)
+    polygon(c(newdata[,origname],rev(newdata[,origname])),c(quantiles["5%",],rev(quantiles["95%",])),col=gray(0.7),border=NA)
     lines(newdata[,origname],apply(quantiles,2,median),lwd=3)
     temp <- seq(-2,2,length=5)
     axis(1,at=temp,labels=round((temp*attributes(sc)[["scaled:scale"]])+attributes(sc)[["scaled:center"]]))
@@ -287,9 +286,9 @@ names(effort) <- detections$LocationCode
 captures_total <- apply(caphist,1,sum,na.rm=T)
 captures_bin <- ifelse(captures_total>0,1,0)
 
-sum(captures_bin)      # 27 known-occupied sites
+sum(captures_bin)      # 28 known-occupied sites
 
-sum(captures_total)    # 43 total captures
+sum(captures_total)    # 38 total captures
  
 sitelist <- unique(detections$LocationCode)       # unique surveyed sites
 
@@ -544,9 +543,9 @@ cat(
       log.effort[site] <- log(effort[site])
       log(expcount[site]) <- log.effort[site] + basecount.log         # for now, assume equal capture rate across all occupied sites
       expcount2[site] <- occupied[site] * expcount[site]              # zero inflation
-      p[site] <- r/(r+expcount2[site])
-      obscount[site] ~ dnegbin(p[site],r)   #dpois(expcount2[site])                         # data node
-      obscount2[site] ~ dnegbin(p[site],r)  # dpois(expcount2[site])                        # for goodness of fit testing
+      #p[site] <- r/(r+expcount2[site])
+      obscount[site] ~ dpois(expcount2[site])                         # data node  dnegbin(p[site],r)   #
+      obscount2[site] ~ dpois(expcount2[site])                        # for goodness of fit testing    dnegbin(p[site],r)  # 
       error.obs[site] <- (obscount[site]-expcount2[site])^2 
       error.sim[site] <- (obscount2[site]-expcount2[site])^2
   }
@@ -572,7 +571,7 @@ cat(
 
     ### priors
   baseocc ~ dunif(0,1)
-  r ~ dunif(0.1,20)
+  #r ~ dunif(0.1,20)
   basecount ~ dunif(0,2)     # baseline expected count for an occupied site
   baseocc.logit <- log(baseocc/(1-baseocc))
   basecount.log <- log(basecount)
@@ -649,8 +648,8 @@ inits.for.jags <- function(){
   list(
     occupied = rep(1,times=nrow(caphist)),   # sitecovs
     baseocc = 0.5,
-    basecount = 0.005,
-    r = 10
+    basecount = 0.005
+    #r = 10
   )
 }
 
@@ -675,11 +674,11 @@ params.to.monitor <- c(
   "occupied",
   "toterr.obs",
   "toterr.sim",
-  "obscount2",
-  "r"
+  "obscount2"
+  #"r"
 )
 
-niter = 40000
+niter = 50000
 mod <- jags(data=data.for.jags, parameters.to.save = params.to.monitor, inits = inits.for.jags, 
             model.file = Bugsfile, n.iter=niter, DIC=FALSE, n.chains = 3,
             n.burnin = 20000, n.thin = 10)
@@ -706,7 +705,7 @@ gelman.diag(mod2[,"beta.elev.o"])
 gelman.diag(mod2[,"beta.moisture.o[2]"])
 gelman.diag(mod2[,"beta.aspect.o[2]"])
 gelman.diag(mod2[,"beta.vegassoc.o[2]"])
-gelman.diag(mod2[,"r"])
+#gelman.diag(mod2[,"r"])
 
 #############
 # Goodness of fit tests (posterior predictive check)
@@ -722,12 +721,11 @@ pval <- length(which(SSEsim > SSEobs))/length(SSEobs)
 png("GOF1.png",width=500,height = 400)
 plot(SSEsim~SSEobs,ylim=c(0,250),xlim=c(0,100))
 abline(1,1,col="blue",lwd=2)
-text(20,200,sprintf("Bayesian p-value: %s",pval))
+text(20,200,sprintf("Bayesian p-value: %#.3g",pval))   ####### start here
 dev.off()
 
-
 nsites <- nrow(sites)
-nsims <- nrow(simobs)
+nsims <- nrow(mod$BUGSoutput$sims.list$baseocc)
 simobs <- mod$BUGSoutput$sims.list$obscount2[,1:nsites]
 
 gof2 <- t(sapply(1:nsims,function(v) sapply(0:6,function(t) length(which(simobs[v,]==t)) )  ))
@@ -751,6 +749,7 @@ dev.off()
 svg("GOF_final.svg",w=5,h=5)
 layout(matrix(c(1,2),nrow=2))
 par(mai=c(0.9,0.9,0.1,0))
+par(family="serif", font=1)
 plot(SSEsim~SSEobs,ylim=c(0,250),xlim=c(0,100),xlab="SSE, obs", ylab="SSE, sim")
 abline(1,1,col="blue",lwd=2)
 text(20,200,sprintf("Bayesian p: %#.3g",pval))
@@ -853,6 +852,7 @@ dev.off()
 svg("coefficients2.svg",width=5,height = 5)
 
 par(mai=c(0.9,2,0,0))
+par(family="serif", font=1)
 plot(1,1,pty="n",main="",ylim=c(0,13),xlim=c(-4,4),xlab="Standardized regression coefficient",ylab="",pch="",bty="n",yaxt="n")
 abline(v=0,lwd=3)
 abline(h=seq(0.5,12.5,1),lty=2,lwd=0.5)
@@ -964,6 +964,7 @@ ns <- round(length(occups)/2)
 svg("allsites.svg",width=12,height = 5)
 layout(matrix(c(1,2),nrow=2))
 par(mai=c(1,0.8,0,0))
+par(family="serif", font=1) 
 barplot(sort(occups)[1:ns],names.arg = names(sort(occups))[1:ns],las=2,ylim=c(0,1),xlab="location code",ylab="Predicted occupancy")
 barplot(sort(occups)[(ns+1):length(occups)],names.arg = names(sort(occups))[(ns+1):length(occups)],las=2,ylim=c(0,1),xlab="location code",ylab="Predicted occupancy")
 dev.off()
